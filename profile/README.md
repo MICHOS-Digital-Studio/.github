@@ -41,5 +41,4 @@ Hablamos claro, sin tecnicismos. Respondemos en menos de 24 horas.
 
 ## Contacto
 
-Escríbenos por WhatsApp al [+52 599 101 1135](https://wa.me/525991011135)
-o a [hola@michosdigital.com](mailto:hola@michosdigital.com).
+Escríbenos a [hola@michosdigital.com](mailto:hola@michosdigital.com).
