@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐱 MICHOS Digital Studio
+# MICHOS Digital Studio
 
 **Tu negocio necesita una web. Tú eliges cómo pagarla.**
 
@@ -20,10 +20,10 @@ aplicaciones y plataformas a la medida.
 
 | | |
 |---|---|
-| 🛒 **Web y tiendas** | Vende, agenda o atiende a tus clientes desde tu propia plataforma. |
-| 🤝 **CRM y ventas** | Cada cliente, cada cotización y cada seguimiento en un solo lugar. |
-| 🧾 **Admin y finanzas** | Gastos, facturas, inventario y cierre de mes sin depender de Excel. |
-| 📊 **Dashboards y KPIs** | Analiza tus datos y decide con números reales, no con corazonadas. |
+| **Web y Tiendas** | Vende, agenda o atiende a tus clientes desde tu propia plataforma. |
+| **CRM y Ventas** | Cada cliente, cada cotización y cada seguimiento en un solo lugar. |
+| **Admin y Finanzas** | Gastos, facturas, inventario y cierre de mes sin depender de Excel. |
+| **Dashboards y KPIs** | Analiza tus datos y decide con números reales, no con corazonadas. |
 
 ## Cómo trabajamos
 
